@@ -1,0 +1,24 @@
+Conviene ahorrar ancho de banda porque es mas barato
+hcaer varios receptores que pagar mas espectro, o hcaer
+dispositivos de mas ancho de banda
+
+Una vez que aplico tH a una señal puedo generar la  parte imaignaria de la 
+señla analitica
+
+. Como se observa en la imagen, la envo
+lvente de la señal transformada (en color negro
+) es igual a la envolvente de la señal original. La e
+nvolvente es la señal moduladora, o señal que típic
+amente se quiere comunicar. El efecto de la transform
+ada de Hilbert se puede entender como equivalente a u
+n desfase de 90º en la portadora del transmisor. Por 
+ello, una vez el receptor se enganchase a la señal re
+cibida, la envolvente demodulada sería igual a la tra
+nsmitida. En otras palabras,
+ no se produciría distorsión en la comunicación.
+
+ Agregar la transf de hilbert es como desfasar 90 la señal
+ La señal analitica 
+
+ El efecto de reducir el AB significa que cada señal se puede muestrear mas despacio
+ 
